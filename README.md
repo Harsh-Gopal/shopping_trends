@@ -90,6 +90,10 @@ Most frequently purchased products and seasonal trends
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+## Authors
+
+Harsh Gopal  
+[@Harsh-Gopal](https://twitter.com/HarshGopalHG)
 
 ## Contact
 For any questions, please feel free to contact me at [hey.harshgopal@gmail.com].
