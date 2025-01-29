@@ -68,7 +68,7 @@ Paste the URL of this repository and open the online_sales_eda.ipynb file.
 Make sure to upload the dataset to Colab (you can either use files.upload() or mount Google Drive).
 Execute the cells to run the EDA.
 
-Option 3: Running Locally
+**Option 3**: Running Locally
 1.Clone the repository to your local machine:
 ```bash
 git clone https://github.com/yourusername/Identifying-Shopping-Trends-EDA.git
