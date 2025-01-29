@@ -1,5 +1,5 @@
 # Identifying Shopping Trends using Data Analysis
-
+![Dashboard Preview 1](https://i.gifer.com/75ez.gif)  
 ## Overview
 This project explores an EDA (Exploratory Data Analysis) on the **Online Sales Dataset**, which is available on Kaggle. The dataset contains information related to customer purchases, including product details, quantity, unit price, discount, and customer-specific data.
 
