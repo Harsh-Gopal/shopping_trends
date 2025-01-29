@@ -53,7 +53,7 @@ pip install pandas numpy matplotlib seaborn plotly ipython
 
 ## How to Run the Project
 
-Option 1: Running on Jupyter Notebook
+**Option 1**: Running on Jupyter Notebook
 Download the notebook file online_sales_eda.ipynb from this repository.
 Open Jupyter Notebook.
 Navigate to the directory where the notebook is saved and open the file.
@@ -61,7 +61,7 @@ Make sure the dataset Online Sales Dataset is available locally or upload it to 
 Run the notebook by executing the cells.
 
 
-Option 2: Running on Google Colab
+**Option 2**: Running on Google Colab
 Open Google Colab (https://colab.research.google.com).
 In Colab, go to File > Open notebook > GitHub tab.
 Paste the URL of this repository and open the online_sales_eda.ipynb file.
