@@ -49,3 +49,48 @@ To install these dependencies, run the following command:
 
 ```bash
 pip install pandas numpy matplotlib seaborn plotly ipython
+```
+
+## How to Run the Project
+
+Option 1: Running on Jupyter Notebook
+Download the notebook file online_sales_eda.ipynb from this repository.
+Open Jupyter Notebook.
+Navigate to the directory where the notebook is saved and open the file.
+Make sure the dataset Online Sales Dataset is available locally or upload it to the same directory where the notebook is stored.
+Run the notebook by executing the cells.
+
+
+Option 2: Running on Google Colab
+Open Google Colab (https://colab.research.google.com).
+In Colab, go to File > Open notebook > GitHub tab.
+Paste the URL of this repository and open the online_sales_eda.ipynb file.
+Make sure to upload the dataset to Colab (you can either use files.upload() or mount Google Drive).
+Execute the cells to run the EDA.
+
+Option 3: Running Locally
+1.Clone the repository to your local machine:
+```bash
+git clone https://github.com/yourusername/Identifying-Shopping-Trends-EDA.git
+```
+2.Navigate to the project directory:
+```bash
+cd Identifying-Shopping-Trends-EDA
+```
+3.Ensure that you have installed all the necessary libraries (mentioned in the requirements section).
+4.Run the notebook on Jupyter Notebook or any IDE that supports Python and Jupyter notebooks.
+
+## Key Insights
+The notebook will generate various analyses and visualizations, such as:
+
+Distribution of order priorities (High, Medium, Low)
+Spending behavior based on discounts
+Trends by payment methods, shipping cost, and other customer data
+Most frequently purchased products and seasonal trends
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contact
+For any questions, please feel free to contact me at [hey.harshgopal@gmail.com].
+
