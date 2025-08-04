@@ -51,7 +51,7 @@ To install these dependencies, run the following command:
 pip install pandas numpy matplotlib seaborn plotly ipython
 ```
 
-## How to Run the Project
+## How to Run this Project
 
 **Option 1**: Running on Jupyter Notebook
 Download the notebook file online_sales_eda.ipynb from this repository.
